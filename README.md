@@ -4,7 +4,8 @@ Introduction – BulkBuy(?) is an application that helps customers place bulk or
 
 When the order is complete, the customer will receive an order number, where they can view their inputted information as well as the deliverer, estimated arrival date, and shipping status. 
 
-## Storyboard
+## Storyboard![image](https://user-images.githubusercontent.com/35185334/133005410-e66d3918-ae9f-4dfc-aa80-6890055cd98c.png)
+
 
 
 ## Requirements
